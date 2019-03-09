@@ -1,0 +1,6 @@
+{
+  "FIELD_RETURNS" : {
+    "driverFull": "first_name last_name driverId city state zip",
+    "driverLite": "first_name last_name driverId city state zip"
+  }
+}

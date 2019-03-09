@@ -1,0 +1,46 @@
+{
+  "name": "passport-based-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^1.24.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "cross-env": "^5.2.0",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^6.0.0",
+    "dotenv-safe": "^6.1.0",
+    "emailjs": "^2.2.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "express-useragent": "^1.0.12",
+    "helmet": "^3.14.0",
+    "moment": "^2.23.0",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.4",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-anonymous": "^1.0.1",
+    "passport-http-bearer": "^1.0.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "qr-image": "^3.2.0",
+    "request": "^2.88.0",
+    "shortid": "^2.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zirra/passport-based-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zirra/passport-based-server/issues"
+  },
+  "homepage": "https://github.com/zirra/passport-based-server#readme",
+  "description": ""
+}
